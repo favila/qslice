@@ -9,13 +9,13 @@ safely.
 deps.edn jar
 
 ```
-net.clojars.favila/qslice {:mvn/version "1.0.4"}
+net.clojars.favila/qslice {:mvn/version "1.0.10"}
 ```
 
 project.clj
 
 ```
-[net.clojars.favila/qslice "1.0.4"]
+[net.clojars.favila/qslice "1.0.10"]
 ```
 
 ## Motivation
@@ -116,8 +116,8 @@ Every public function also has a docstring, e.g.:
 
 ## Change Log
 
-### [v1.0.4] - 2024-09-28
-[v1.0.4]: https://github.com/favila/qslice/compare/607d97899ca8d75946651f4181caafe0ad02103a...v1.0.4
+### [v1.0.10] - 2024-10-15
+[v1.0.10]: https://github.com/favila/qslice/compare/607d97899ca8d75946651f4181caafe0ad02103a...v1.0.10
 
 Initial release forked from [shortcut-qslice].
 
