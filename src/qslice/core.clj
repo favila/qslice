@@ -54,6 +54,7 @@
    `with-let-locked`
    `let-locked?`
    `compiled-query`
+   `compiled-slice-order-names`
 
    These are convenience qslice constructors:
 
